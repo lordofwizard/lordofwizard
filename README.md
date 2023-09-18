@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm LordOfWizard (Advait)</h1>
-![Image](name.gif)
+<h1 align="center">Hi 👋, I'm LordOfWizard (Advait)</h1>  
+
+![Name Gif](name.gif)
 <h3 align="center">I like to write Rust and fast code. Student in Pune (ADYPSOE), Elitist in GNU/Linux. </h3>
 <small align="center">I use Arch btw!</small>
 
