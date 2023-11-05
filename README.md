@@ -2,7 +2,7 @@
 <h3 align="center">I like to write Rust and fast code. Student in Pune (ADYPSOE), Elitist in GNU/Linux. </h3>
 <small align="center">I use Arch btw!</small>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordofwizard&label=Profile%20views&color=0e75b6&style=flat" alt="lordofwizard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordofwizard&label=Stalkers&color=0e75b6&style=flat" alt="lordofwizard" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordofwizard" alt="lordofwizard" /></a> </p>
 
