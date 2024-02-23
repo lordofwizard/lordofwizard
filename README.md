@@ -1,4 +1,4 @@
-<p align="center"><img src="name.gif"> </p>
+<p alight="center"><img src="https://github.com/lordofwizard/lordofwizard/assets/38832648/ed99e59f-943a-4518-9eea-bbb2fea306dc"></p>
 <h3 align="center">I like to write Rust and fast code. Student in Pune (ADYPSOE), Elitist in GNU/Linux. </h3>
 <small align="center">I use Arch btw!</small>
 
