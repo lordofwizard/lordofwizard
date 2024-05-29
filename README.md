@@ -3,22 +3,22 @@
 <p alight="center"><img src="https://github.com/lordofwizard/lordofwizard/assets/38832648/ed99e59f-943a-4518-9eea-bbb2fea306dc"></p>
 <br/><br/>
 <br/><br/>
-<h3 align="center">I like to write Rust and fast code. Student in Pune (ADYPSOE), Elitist in GNU/Linux. </h3>
+<h3 align="center">I love Rust and Systems Programming. </h3>
 <small align="center">I use Arch btw!</small>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordofwizard&label=Stalkers&color=0e75b6&style=flat" alt="lordofwizard" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordofwizard" alt="lordofwizard" /></a> </p>
 
-- 🔭 I’m currently working on [MDM](https://github.com/lordofwizard/mdm.git/)
+- 🔭 I’m currently working on [MCServer](https://github.com/lordofwizard/mcserver.git)
 
-- 🌱 I’m currently learning **Rust, Rustlings, Zola and**
+- 🌱 I’m currently learning ROS2, KVM, Async Rust, Concurrency. 
 
-- 🤝 I’m looking for help with [MCServer](https://github.com/lordofwizard/mcserver.git/)
+- 🤝 I’m looking for help with [MCServer](https://github.com/lordofwizard/mcserver.git/) and [TortoiseBot](https://github.com/rigbetellabs/tortoisebot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lordofwizard](https://github.com/lordofwizard)
 
-- 📝 I regularly write articles on [https://lordofwizard.github.io](https://lordofwizard.github.io)
+- 📝 I regularly(def not) write articles on [https://lordofwizard.github.io](https://lordofwizard.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
