@@ -7,6 +7,6 @@ I am also currently pursuing my Computer Engineering's Degree from Pune Universi
 
 ---
 
-Feel Free to reach out to me : 
-Email : advait.low@gmail.com
-LinkedIn : [lordofwizard](https://www.linkedin.com/in/lordofwizard/)
+Feel Free to reach out to me    
+Email : advait.low@gmail.com   
+LinkedIn : [lordofwizard](https://www.linkedin.com/in/lordofwizard/)   
