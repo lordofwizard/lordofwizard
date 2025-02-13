@@ -2,8 +2,7 @@
 
 ---
 
-### Bout me?
-
+### Bout me?  
 I'm a Software Engineer based in Pune, Maharashtra. My journey's been a wild ride through DevOps, Robotics, Industrial Warehouse Automation, and logistics. Right now, I'm coding it up at [Vanderlande](https://www.vanderlande.com/) and juggling it with my Computer Engineering degree at [ADYPSOE](https://adypsoe.in/). 🎓💻
 
 ---
@@ -14,3 +13,6 @@ Slide into my DMs:
 
 ---
 
+<h2
+  align="center "> <img src="https://komarev.com/ghpvc/?username=lordofwizard&label=Stalkers&color=000000&style=flat" alt="Advait"
+</h2>  
